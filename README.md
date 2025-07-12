@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm João Cordeiro</h1>
-<h3 align="center">☀️ I build solutions through connections</h3>
+<h3 align="center">☀️ I build solutions through connections_</h3>
 
 ---
 
