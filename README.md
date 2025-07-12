@@ -1,27 +1,73 @@
-<h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">A student of Computer Science, who works as a DevOps Engineer</h3>
+<h1 align="center">👋 Hi, I'm João Cordeiro</h1>
+<h3 align="center">☀️ I build solutions through connections</h3>
 
-- 🔭 I’m currently working on **IaC projects**
+---
 
-- 🌱 I’m currently learning **Kubernetes, Terraform and Github Automations**
+## 🤗 About Me
 
-<!--- 👯 I’m looking to collaborate on **Python IoT projects and automations** -->
+I'm a **Computer Science student** at UFSC and **DevOps Engineer** passionate about building quality solutions through meaningful connections. My approach is all about creating bridges that enable clear, collaborative communication while sharing knowledge and implementing solutions that truly make a difference.
 
-- 📫 How to reach me **jschmidtcordeiro@gmail.com**
+The concept behind **jcconnects** is simple yet powerful: everything great happens through connections 🤝 Whether it's connecting technologies, teams, or ideas, I believe in fostering collaboration that leads to reliable, well-organized projects that exceed expectations.
 
+---
 
-<!--
-**jschmidtcordeiro/jschmidtcordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently Working On
 
-Here are some ideas to get you started:
+- 🔭 **IaC projects** - Infrastructure as Code implementations
+- 🌱 **Learning**: Kubernetes, n8n, Terraform, and GitHub Automations
+- 💪 **Building**: Solutions that connect people and technology seamlessly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 📄 Know about my experiences []()
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### DevOps & Infrastructure
+`Docker` `Kubernetes` `Terraform` `GitHub Actions` `AWS` `monitoring` `CI/CD` 
+
+### Programming
+`Python` `C++` `JavaScript` `Bash` `YAML` `JSON`
+
+### Tools & Technologies
+`Git` `Linux` `n8n` `ArgoCD` `Jenkins` `Vault`
+
+---
+
+## 🎸 When I'm Not Coding
+
+- 🎵 **Music**: Playing bass and guitar 🎸
+- 🏊‍♂️ **Swimming**: Finding peace in the water
+- 🏄‍♂️ **Surfing**: Riding waves when I can
+- 🤔 **Logosophy**: Studying this science of conscious evolution and self-knowledge - a method for personal development and understanding life's deeper aspects. Learn more at [logosofia.org.br](https://logosofia.org.br/) 😉
+
+---
+
+## 🎓 UFSC Academic Projects
+
+My university projects are organized with the `UFSC-*` naming pattern! 🤓 Here are some highlights:
+
+- **🔒 [UFSC-INE5424](https://github.com/jcconnects/UFSC-INE5424)**: Reliable and secure communication library for critical autonomous systems
+- **📚 [POO2](https://github.com/jcconnects/POO2)**: Object-Oriented Programming II coursework and projects
+
+Feel free to explore all my UFSC repositories to see my academic journey in Computer Science! 🙌
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-schmidt-cordeiro/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jcconnects_?igsh=a29xNmhvZWwxc2pj&utm_source=qr) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jcconnects)
+ 
+</div>
+
+**📫 Reach me at**: jschmidtcordeiro@gmail.com
+
+---
+
+**🎯 Bonus**: Check out my [zmk-config](https://github.com/jcconnects/zmk-config) repository for my custom keyboard configuration setup! Perfect for fellow keyboard enthusiasts! ⌨️
+
+---
+
+<div align="center">
+<i>Building bridges, sharing knowledge, creating solutions ☀️</i>
+</div>
