@@ -60,7 +60,7 @@ Feel free to explore all my UFSC repositories to see my academic journey in Comp
  
 </div>
 
-**📫 Reach me at**: jschmidtcordeiro@gmail.com
+**📫 Reach me at**: jctechconnections@gmail.com
 
 ---
 
